@@ -1,0 +1,35 @@
+John Smith, 42 Finkleton close, 50
+{Multimeter, 9.99, 1}
+{Churchill teddy, 9.99, 1}
+
+Joan Smith, 42 Finkleton close, 50
+{}
+
+Alpha Bravo, 15 Osney, 10
+{}
+
+Zulu Lima, 90 Oxford road, 10
+{Mayfair, 9.99, 1}
+{Apples, 9.99, 1}
+
+Bravo Tango, 2 Lima Avenue, 42
+{Hydrogenated hydrogen, 10, 2}
+
+Foxtrot Golf, 5 Kidlington Centra, 50
+{Thyroid medication, 5, 50}
+
+Hotel India, 3 Shepard Caverns, 11.5
+{}
+
+Xray Bravo, Pinkleberry close, 99.9
+{}
+
+Lima Charlie, 10 Osney, 5.1
+{Prototype piano, 1, 5500}
+
+Delta Romeo, A bad place, 0.2
+{Cologne, 5, 10}
+
+Zulu Lima, 90 Oxford road, 10
+{Oranges, 19, 1}
+{Apricots, 120, 1}

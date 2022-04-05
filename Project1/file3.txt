@@ -1,0 +1,3 @@
+John Smith, 42 Finkleton close, 50
+{Multimeter, 9.99, 1}
+{Churchill teddy, 9.99, 1}
